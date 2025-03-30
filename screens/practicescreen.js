@@ -24,7 +24,7 @@ export default class PracticeScreen extends React.Component {
           <Text style={styles.phaseTitle}>Level 1</Text>
           <Text style={styles.phaseSubtitle}>  23 Letters</Text>
           <Image
-            source={require("../assets/images/king.png")} // Replace with your bird icon path
+            source={require("../assets/images/king.png")}
             style={styles.icon}
           />
         </TouchableOpacity>
@@ -38,7 +38,7 @@ export default class PracticeScreen extends React.Component {
           <Text style={styles.phaseTitle}>Level 2</Text>
           <Text style={styles.phaseSubtitle}>19 Letters</Text>
           <Image
-            source={require("../assets/images/leaf.png")} // Replace with your bird icon path
+            source={require("../assets/images/leaf.png")}
             style={styles.icon}
           />
         </TouchableOpacity>
@@ -53,7 +53,7 @@ export default class PracticeScreen extends React.Component {
           <Text style={styles.phaseTitle}>Level 3</Text>
           <Text style={styles.phaseSubtitle}>19 Letters</Text>
           <Image
-            source={require("../assets/images/hat.png")} // Replace with your bird icon path
+            source={require("../assets/images/hat.png")}
             style={styles.icon}
           />
         </TouchableOpacity>
@@ -67,7 +67,7 @@ export default class PracticeScreen extends React.Component {
           <Text style={styles.phaseTitle}>Level 4</Text>
           <Text style={styles.phaseSubtitle}>Videos</Text>
           <Image
-            source={require("../assets/images/youtube.png")} // Replace with your bird icon path
+            source={require("../assets/images/youtube.png")}
             style={styles.icon}
           />
         </TouchableOpacity>
@@ -150,15 +150,3 @@ const styles = StyleSheet.create({
     transform: [{ rotate: "-45deg" }],
   },
 });
-
-//level names: background- gray color of button - 
-// sun picture 
-// icons same
-
-// quizes - level 1- game name, level 2,
-// dict-  
-// bee - dict logo
-// heading in the all screen
-
-
-//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
