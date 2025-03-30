@@ -197,7 +197,7 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
   },
   chunkButtonContainer: {
-    flex: 0.5, // You can adjust this as per your design requirements
+    flex: 0.5,
     backgroundColor: "yellow",
     flexDirection: "row", // Arrange the buttons in a row
     flexWrap: "wrap", // Allow buttons to wrap to the next line
@@ -207,5 +207,3 @@ const styles = StyleSheet.create({
     margin: 10, // Add margin around the container
   },
 });
-//https://www.buzzphonics.com/
-//https://github.com/hellodeborahuk/buzzphonics/blob/main/src/index.js
